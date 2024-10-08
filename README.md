@@ -9,8 +9,6 @@ This project is a comprehensive Power BI analysis of the Global Superstore datas
     - [Page 1: Sales Overview](#page-1-sales-overview)
     - [Page 2: Profit Analysis](#page-2-profit-analysis)
     - [Page 3: Customer Segmentation](#page-3-customer-segmentation)
-    - [Page 4: Regional Performance](#page-4-regional-performance)
-    - [Page 5: Shipping and Delivery](#page-5-shipping-and-delivery)
 
 ---
 
