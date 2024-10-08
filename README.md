@@ -24,34 +24,26 @@ The data used in this project comes from the Global Superstore dataset, which in
 
 ### Page 1: Sales Overview
 This page provides an overview of the sales metrics, including total revenue, average sales per customer, and top-selling products.
-
-![1](https://github.com/user-attachments/assets/2430c9e3-4e11-4cde-993d-0b4686536e32)
+![2](https://github.com/user-attachments/assets/d807886c-00f5-4e7c-a7e9-0e906ce03926)
 
 ---
 
 ### Page 2: Profit Analysis
 This page breaks down the profits by region, category, and product type, highlighting the most profitable areas for the business.
 
-![2](https://github.com/user-attachments/assets/d807886c-00f5-4e7c-a7e9-0e906ce03926)
+![3](https://github.com/user-attachments/assets/93973b70-af9b-4105-8998-ac0fe3346bf1)
 
 ---
 
 ### Page 3: Customer Segmentation
 This page segments the customers based on their purchasing habits, identifying key customer groups and trends in the data.
 
-![3](https://github.com/user-attachments/assets/93973b70-af9b-4105-8998-ac0fe3346bf1)
 
+![4](https://github.com/user-attachments/assets/ec1f5622-b24c-4162-8d0d-2b83a214152f)
 ---
 
 ### Page 4: Regional Performance
 This page visualizes the performance of different regions in terms of sales, profits, and customer engagement.
-
-![4](https://github.com/user-attachments/assets/ec1f5622-b24c-4162-8d0d-2b83a214152f)
-
----
-
-### Page 5: Shipping and Delivery
-This page focuses on the shipping process, analyzing delivery times, shipping costs, and their impact on customer satisfaction.
 
 ![5](https://github.com/user-attachments/assets/a89ecaa6-83b6-48d4-b67d-dab8026368ef)
 
