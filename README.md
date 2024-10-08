@@ -35,17 +35,9 @@ This page breaks down the profits by region, category, and product type, highlig
 
 ---
 
-### Page 3: Customer Segmentation
-This page segments the customers based on their purchasing habits, identifying key customer groups and trends in the data.
-
-
-![4](https://github.com/user-attachments/assets/ec1f5622-b24c-4162-8d0d-2b83a214152f)
----
-
-### Page 4: Regional Performance
+### Page 3: Regional Performance
 This page visualizes the performance of different regions in terms of sales, profits, and customer engagement.
-
-![5](https://github.com/user-attachments/assets/a89ecaa6-83b6-48d4-b67d-dab8026368ef)
+![4](https://github.com/user-attachments/assets/ec1f5622-b24c-4162-8d0d-2b83a214152f)
 
 ---
 
